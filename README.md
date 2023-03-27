@@ -4,3 +4,5 @@
 Repositório criado durante aula ao vivo
 
 Essa linha adicionei diretamente no site do GitHub
+
+**Disponível gratuitamente**
